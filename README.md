@@ -9,6 +9,6 @@ The IA is abble to identify 104 species of flowers.
 augmentation
 ![image](https://user-images.githubusercontent.com/67394574/212545815-6cc3c1f1-fb66-442d-8664-dcba583f0893.png)
 
-Accuracy and lost
+Accuracy and loss
 
 ![image](https://user-images.githubusercontent.com/67394574/212545897-6488f8f9-5221-4480-a951-d83e1c8b6963.png)
